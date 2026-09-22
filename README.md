@@ -1,4 +1,8 @@
 # Auto Loan Securitisation Analytics
+## Dashboard Preview 
+<img width="1316" height="853" alt="Investor Reporting " src="https://github.com/user-attachments/assets/32056a05-2281-4631-bfe8-110b78fd65ef" />
+<img width="1318" height="856" alt="Executive Portfolio Overview" src="https://github.com/user-attachments/assets/97ca9ee9-ff77-4f62-9b43-871384ea3b52" />
+<img width="1324" height="853" alt="Portfolio Performance   Trend Analysis" src="https://github.com/user-attachments/assets/8cac66ee-65e7-426b-b7f6-c6d7d80e95b9" />
 
 ## Project Overview
 
